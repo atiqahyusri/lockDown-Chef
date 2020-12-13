@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/lockdownchefreg"
+        android:layout_width="334dp"
+        android:layout_height="209dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/lockdown" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rName"
+        android:hint="@string/hint_name"
+        android:padding="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rEditEmail"
+        android:hint="@string/hint_email"
+        android:inputType="textEmailAddress"
+        android:padding="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rEditPassword"
+        android:hint="@string/hint_password"
+        android:inputType="textPassword"
+        android:padding="20dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/register"
+        android:layout_marginTop="20dp"
+        android:background="#FF32B8C2"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:id="@+id/btnRegister"/>
+
+    <Button
+        android:id="@+id/btnLinkToLoginScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dip"
+        android:background="@null"
+        android:text="@string/btn_link_to_login"
+        android:textAllCaps="false"
+        android:textColor="#FF32B8C2"
+        android:textSize="15sp" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LOCKDOWN CHEF</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="btn_link_to_register">Not a member</string>
+    <string name="btn_link_to_login">Already a member</string>
+    <string name="welcome">Welcome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="view_list">View Ingredients</string>
+    <string name="groceries_list">Groceries List</string>
+    <string name="add_btn2">Add Ingredients</string>
+    <string name="add_ingredient">Add ingredient</string>
+</resources>
