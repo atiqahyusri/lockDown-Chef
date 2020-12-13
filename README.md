@@ -6,3 +6,6 @@ video as well.
 
 #all java file is here 
 lockDown-Chef/app/src/main/java/com/example/androidlogin/
+
+#xml file is here
+lockDown-Chef/app/src/main/res/layout/
