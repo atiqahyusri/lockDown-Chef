@@ -9,3 +9,5 @@ lockDown-Chef/app/src/main/java/com/example/androidlogin/
 
 #xml file is here
 lockDown-Chef/app/src/main/res/layout/
+
+This is the mockup for this project https://ninjamock.com/s/5QJVKGx
